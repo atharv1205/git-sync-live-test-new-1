@@ -1,4 +1,4 @@
 host: localhost
-port: 8080
-debug: false
+port: 7070
+debug: true
 name: demo
